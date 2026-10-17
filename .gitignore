@@ -1,0 +1,12 @@
+# Compiled artifacts
+target/
+*.class
+
+# Standalone Tomcat binary
+tomcat/
+*.zip
+
+# OS & Log files
+*.log
+.DS_Store
+Thumbs.db
